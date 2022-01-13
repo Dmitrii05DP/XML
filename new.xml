@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF=8"?>
+<Information>
+	<About_Me>
+		<Name>Dmitrii</Name>
+		<Surname>Petrov</Surname>
+	</About_Me>
+	<Other>
+		<Age>"31"</Age>
+		<Pets>Cat</Pets>
+		<Future> Salary - 2500$</Future>
+	</Other>
+</Information>
