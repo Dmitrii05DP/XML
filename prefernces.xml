@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <preferences>
-Favorite movie: "Air Bud"
-Favorite tv show: "PtuskinTravel"
-Favorite season: "Summer"
-Favorite food: "Kimchi"
+    <FavoriteMovie>Air Bud</FavoriteMovie>
+    <Favoritetvshow>PtushkinTravel</Favoritetvshow> 
+    <FavoriteSeason>Summer</FavoriteSeason>
+    <FavoriteFood>Kimchi</FavoriteFood>
 </preferences>
+
